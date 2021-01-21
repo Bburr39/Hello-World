@@ -1,3 +1,8 @@
 # Hello-World
 First Repository
-New to this world, looking forward to learning. Go Gators.
+
+Hello friends.
+
+New to this world, looking forward to learning.
+
+Go Gators.
